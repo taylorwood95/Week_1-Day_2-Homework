@@ -43,7 +43,7 @@ for country in united_kingdom:
 population_total = 0
 for number in united_kingdom:
     population_total += number['population']
-    print(population_total)
+print(population_total)
 
 
     
