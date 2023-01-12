@@ -45,6 +45,8 @@ for number in united_kingdom:
     population_total += number['population']
 print(population_total)
 
+print(f'The UK total population is {population_total}')
+
 
     
     
